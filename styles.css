@@ -21,7 +21,7 @@
 body{
     max-width: 100vw;
     min-height: 100vh;  /*to apply flex display and align item in center*/
-    font-family: Work Sans;
+    font-family: "Work Sans";
     background: var(--light-pink) no-repeat url(./assets/images/background-pattern-desktop.svg);
     background-size: contain;
     display: flex;
